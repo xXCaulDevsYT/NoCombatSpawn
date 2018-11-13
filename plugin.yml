@@ -1,0 +1,7 @@
+name: NoCombatSpawn-Frost
+main: EmeraldMC\NoCombatSpawn\Main
+author: EmeraldMC
+load: POSTWORLD
+description: No Combat Spawn For FrostHCF
+api: 3.2.5
+version: 1.0
